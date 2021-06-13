@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pocket Movie List</string>
+    <string name="api_key">06b1e535fa01de68844419eadc793990</string>
+    <string name="about">About</string>
+    <string name="topLabel">Top Rated</string>
+    <string name="popularLabel">Most Popular</string>
+</resources>
